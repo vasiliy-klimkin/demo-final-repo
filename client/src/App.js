@@ -8,6 +8,7 @@ function App() {
       <button>asdasda</button>
       aasdja akuj hksdf kf hdsuflkfhslkfdlks fh
       dsfkusdfh lsdfhlskd lkfghlks lk;zhsdlka
+      <button>Add button</button>
       afnljsdflkjsfljfhkjsdlksd fhs
       sdlfhsdli hslkdfhlk fhslf hlk
       <button>asdasda</button>
